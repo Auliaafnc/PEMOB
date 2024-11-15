@@ -1,8 +1,7 @@
 # Mobile Apps Tracking Data Lokasi Layanan Isolasi Mandiri
 
 ## Introduction
-# Mobile Apps Tracking Data Lokasi Layanan Isolasi Mandiri
-Aplikasi **Mobile Tracking Data Lokasi ** dirancang untuk menyediakan informasi lokasi serta status kesehatan individu, dengan fokus pada layanan isolasi mandiri. Aplikasi ini menggunakan peta interaktif dan detail deskripsi lokasi sebagai fitur utamanya, didukung oleh desain antarmuka yang sederhana untuk mempermudah penggunaan.
+Aplikasi Mobile Apps Tracking Data Lokasi Layanan Isolasi Mandiri dirancang untuk menyediakan informasi lokasi serta status kesehatan individu, dengan fokus pada layanan isolasi mandiri. Aplikasi ini menggunakan peta interaktif dan detail deskripsi lokasi sebagai fitur utamanya, didukung oleh desain antarmuka yang sederhana untuk mempermudah penggunaan.
 
 ## Objective
 Mempermudah pengguna untuk:
