@@ -22,10 +22,7 @@ Mempermudah pengguna untuk:
    - **Jenis Layanan**: Layanan Informasi Berbasis Online.
    - **Definisi**: Solusi berbasis mobile untuk memantau lokasi dan status kesehatan individu dalam layanan isolasi mandiri.
    - **Abstrak**
-   Dalam era digital yang terus berkembang, kebutuhan untuk mengakses informasi lokasi secara cepat dan efisien menjadi sangat penting. Aplikasi ini membantu masyarakat dan pihak terkait memantau lokasi individu serta memberikan informasi status kesehatan mereka. Fitur utama meliputi:
-   - Peta interaktif.
-   - Deskripsi lokasi.
-   - Status kesehatan real-time.
+   Dalam era digital yang terus berkembang, kebutuhan untuk mengakses informasi lokasi secara cepat dan efisien menjadi sangat penting. Aplikasi ini membantu masyarakat dan pihak terkait memantau lokasi individu serta memberikan informasi status kesehatan mereka. Fitur utama meliputi Peta interaktif, Deskripsi lokasi dan, Status kesehatan real-time.
 
 ## Penjelasan Fungsi
 1. **Fungsi Teknis**
@@ -47,6 +44,7 @@ Mempermudah pengguna untuk:
 ## Process Flows
 ![Mobile Apps Tracking Data Lokasi Layanan Isolasi Mandiri](assets/images/image.png)
   ## Spesifikasi
+Spesifikasi Aplikasi Mobile Tracking Data Lokasi
 ### Framework
 - **Flutter**: Framework utama yang digunakan untuk mengembangkan aplikasi ini, karena mendukung pengembangan aplikasi lintas platform dengan performa tinggi dan desain responsif.
 
